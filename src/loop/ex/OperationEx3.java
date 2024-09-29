@@ -1,6 +1,4 @@
-package ex;
-
-import java.util.Scanner;
+package loop.ex;
 
 public class OperationEx3 {
 

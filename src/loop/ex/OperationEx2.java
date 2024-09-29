@@ -1,4 +1,4 @@
-package ex;
+package loop.ex;
 
 public class OperationEx2 {
 
